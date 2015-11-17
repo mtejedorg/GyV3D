@@ -1,0 +1,2 @@
+/home/al-12-13/mtejedor/Practica3D/ATCSim/build/CMakeFiles/ATCSim.dir
+/home/al-12-13/mtejedor/Practica3D/ATCSim/build/CMakeFiles/cppgui.dir
